@@ -7,6 +7,9 @@ An automated, algorithmic cash-and-carry crypto trading bot designed to harvest 
 
 Learn more about the strategy at [TraderRebate.com](https://traderrebate.com/crypto-funding-fee-arbitrage).
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2bcfa08-dc0d-425c-9ff3-146856170bf0" />
+
+
 ---
 
 ## 📈 Core Architecture & Mechanics
@@ -56,9 +59,11 @@ The bot is currently fine-tuned for **KuCoin**, but the core orchestration engin
 
 * [x] KuCoin Spot & Futures Live Integration
 
----
 
-## 🛠️ Installation & Setup
+<img width="1920" height="1080" alt="trader-rebate-crypto-funding-fee-arbitrage" src="https://github.com/user-attachments/assets/ade2d23e-caf2-443f-b252-9dbd147a074f" />
+
+
+## 🛠️ Installation & Setupa
 
 ### Prerequisites
 * Python 3.10+
